@@ -1,8 +1,8 @@
 # copyRandoFiles
 copy Random Files in nix
 
-# Author: Kristofer Bratt
-### Linux, shuf, xargs och cp
+### Author: Kristofer Bratt
+#### Linux, shuf, xargs och cp
 
  skript som listar filer i en mapp
  för att sedan randomisera och välja
